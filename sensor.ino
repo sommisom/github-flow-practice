@@ -1,0 +1,1 @@
+//Pre-assembled temperature module initialized (no external resistor needed)
